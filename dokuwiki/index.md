@@ -1,11 +1,14 @@
-===== Projects =====
+
+# Projects #
 
 I am an experienced bioinformatics programmer interested in data visualization, machine learning, and data science. Here's a list of some of the projects I've worked on over the years, starting with the most recent.
 
-**Agriculture and Agri-Food Canada, Ottawa ON**
-  * Galaxy migration of genome assembly and annotation tools.
-  * Genomic DNA contaminant identification, visualization, and removal.
-  * [[Genome assembly project|Genome assembly pipeline.]]
+| **Agriculture and Agri-Food Canada, Ottawa ON** |
+| --- |
+|Galaxy migration of genome assembly and annotation tools. |
+
+  &35 Genomic DNA contaminant identification, visualization, and removal.
+  * [Genome assembly project](/dokuwiki/genome_assembly_project.html)
   * [[qsub omics project|Automated bioinformatics SGE cluster tool submission.]]
 
 **Mood Group, QEII Hospital, Halifax NS**
