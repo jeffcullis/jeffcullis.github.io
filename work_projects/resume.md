@@ -1,5 +1,5 @@
 ---
-layout: resume
+layout: slate_page_nologo
 title: Jeff Cullis
 description: Projects list and résumé
 permalink: resume
