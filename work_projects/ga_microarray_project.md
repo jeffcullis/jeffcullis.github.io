@@ -1,7 +1,11 @@
-===== Genetic algorithms for the classification of cancer microarray datasets. =====
+---
+title: GAs for Microarray Data
+---
 
-=== Project Description ===
+Genetic algorithms for the classification of cancer microarray datasets.
 
-=== Github Code ===
+## Project Description ##
 
-=== Publication ===
+## Github Code ##
+
+## Publication ##

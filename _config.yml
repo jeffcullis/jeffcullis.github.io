@@ -16,7 +16,7 @@
 title: Jeff's Projects
 email: jeffcullis@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A github page for Jeff's projects.
+  A github page for jeffcullis's projects.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -25,7 +25,7 @@ github_username:  jeffcullis
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-tactile
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
 

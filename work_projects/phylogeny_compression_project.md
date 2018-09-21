@@ -1,5 +1,7 @@
-===== Algorithm development for phylogenetic tree compression. =====
+# Phylogenetic Tree Compression #
 
-=== Project Description ===
+Algorithm development for phylogenetic tree compression.
 
-=== Github Code ===
+## Project Description ##
+
+## Github Code ##

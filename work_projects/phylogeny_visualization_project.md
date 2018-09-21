@@ -1,7 +1,11 @@
-===== Visualization of the likelihood landscape of phylogeny search space =====
+---
+title: Phyelogeny Visualization
+---
 
-=== Project Description ===
+Visualization of the likelihood landscape of phylogeny search space
 
-=== Github Code ===
+## Project Description ##
 
-=== Publication ===
+## Github Code ##
+
+## Publication ##

@@ -1,8 +1,12 @@
-===== MPI-based optimization of parallel load balancing for phylogeny search =====
+---
+title: Parallel Phylogenetics Project
+---
 
-=== Project Description ===
+MPI-based optimization of parallel load balancing for phylogeny search.
 
-=== Github Code ===
+## Project Description ##
 
-=== Publication ===
-{{:jeffjeremyprojectwriteup.pdf|Parallel Load Balancing Schedules for Protein Phylogeny}}
+## Github Code ##
+
+## Publication ##
+[Parallel Load Balancing Schedules for Protein Phylogeny](/work_projects/jeffjeremyprojectwriteup.pdf)

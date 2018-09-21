@@ -1,5 +1,5 @@
-===== Management of neurocognitive testing data =====
+# Management of neurocognitive testing data #
 
-=== Project Description ===
+## Project Description ##
 
-=== Github Code ===
+## Github Code ##
