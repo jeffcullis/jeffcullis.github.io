@@ -5,6 +5,10 @@ description: Projects list and résumé
 permalink: resume
 ---
 
+## Contact Info ##
+
+First name, last name at gmail dot com.
+
 ## Experience ##
 
 ### Computational Biologist ###
@@ -22,7 +26,7 @@ permalink: resume
 
 * Designed, developed, validated, and released new features and made other contributions to the CCG [hereditary cancer panel](http://ccgenomics.ca/hcp-panel.html) and [somatic cancer panels](http://ccgenomics.ca/oncopanel-and-myeloid-panel.html).
 
-### Bioinformatics Software Developer ###
+### Biodiversity Bioinformatics Programmer ###
 **[Agriculture and Agri-Food Canada](http://www.agr.gc.ca/eng)** at the [Ottawa Research and Development Centre](http://www.agr.gc.ca/eng/science-and-innovation/research-centres-and-collections/ontario/ottawa-research-and-development-centre/ottawa-research-and-development-centre/?id=1180546650582).<br>
 **April 2013 -- August 2015**<br>
 
@@ -83,6 +87,3 @@ permalink: resume
 [Department of Computer Science](https://web.uvic.ca/calendar2018-09/undergrad/engineering/csc.html#1018880) at the [University of Victoria](https://www.uvic.ca/).<br>
 **1999 -- 2004**<br>
 
-## Contact Info ##
-
-My name at gmail.com.
