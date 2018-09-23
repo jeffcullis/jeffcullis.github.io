@@ -1,4 +1,5 @@
 ---
+layout: slate_page_nologo
 title: Jeff Cullis
 description: Publications List
 permalink: cv
