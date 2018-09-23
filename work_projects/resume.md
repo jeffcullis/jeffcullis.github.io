@@ -87,3 +87,6 @@ First name, last name at gmail dot com.
 [Department of Computer Science](https://web.uvic.ca/calendar2018-09/undergrad/engineering/csc.html#1018880) at the [University of Victoria](https://www.uvic.ca/).<br>
 **1999 -- 2004**<br>
 
+## Publications ##
+
+See my [publications list](/cv).
