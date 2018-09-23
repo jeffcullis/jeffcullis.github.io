@@ -4,28 +4,32 @@ description: Publications List
 permalink: cv
 ---
 
+## CONTACT INFO ##
+
+First name, last name at gmail dot com.
+
 ## EDUCATION ##
  
-Dalhousie University, Halifax, NS
-MCSc., Computer Science
-October 2008
+Dalhousie University, Halifax, NS<br>
+MCSc., Computer Science<br>
+October 2008<br>
 “A framework for the Construction, Visualization, and Characterization of Phylogeny Search Space”
  
-University of Victoria, Victoria, BC
-B.Sc., Combined Major in Math and Computer Science
-June 2004
+University of Victoria, Victoria, BC<br>
+B.Sc., Combined Major in Math and Computer Science<br>
+June 2004<br>
  
 ## EMPLOYMENT HISTORY ##
 
-Computational Biologist, Centre for Clinical Genomics, Michael Smith Genome Sciences Centre, Vanouver,BC
+Computational Biologist, Centre for Clinical Genomics, Michael Smith Genome Sciences Centre, Vanouver,BC<br>
 September 2015 – June 2018
 
-Biodiversity Bioinformatics Programmer, Microbial Biodiversity Bioinformatics Group, Agriculture and Agri-Food Canada, Ottawa, ON
-April 2013 – August 2015
+Biodiversity Bioinformatics Programmer, Microbial Biodiversity Bioinformatics Group, Agriculture and Agri-Food Canada, Ottawa, ON<br>
+April 2013 – August 2015<br>
 
-Research Associate, Mood Disorders Research Group
-Department of Psychiatry, Dalhousie University
-October 2008 – March 2013
+Research Associate, Mood Disorders Research Group<br>
+Department of Psychiatry, Dalhousie University<br>
+October 2008 – March 2013<br>
 
  
 ## PUBLICATIONS ##
@@ -54,7 +58,7 @@ J Psychiatry Neurosci. 2012 May;37(3):185-92. doi: 10.1503/jpn.110097.
 PMID:
 22353634
 
-POSTERS AND PRESENTATIONS
+## POSTERS AND PRESENTATIONS ##
 
 Cullis,  Jeffrey,  Lewis,  Christopher  T.,  Kandalaft,  Iyad,  Adam,  Zaky  (2014).   Assessing  and  Improving  In-House Genome  and  Transcriptome  Assembly  Solutions:  A  Case  Study. 22nd  Annual  International Conference  on  Intelligent Systems  for  Molecular  Biology,  Boston,  USA.
 
