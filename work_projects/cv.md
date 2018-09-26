@@ -7,7 +7,7 @@ permalink: cv
 
 ## CONTACT INFO ##
 
-First name, last name at gmail dot com.
+jeffcullis at gmail.com
 
 ## EDUCATION ##
  

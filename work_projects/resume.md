@@ -7,7 +7,7 @@ permalink: resume
 
 ## Contact Info ##
 
-First name, last name at gmail dot com.
+jeffcullis at gmail.com
 
 ## Experience ##
 
