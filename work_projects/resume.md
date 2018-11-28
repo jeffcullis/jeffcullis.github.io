@@ -37,14 +37,14 @@ jeffcullis at gmail.com
 * Responsible for organization and management of over 60TB of genomics and genome assembly data, from raw inputs through to final output data release.
 * Worked directly with numerous researchers to improve upon genomics and transcriptomics outputs and to perform additional customized analyses.
 * Supervised four co-op students with projects focused on gene annotation and metagenomics analysis.
-* Gained significant experience using the following languages and technologies: Perl, R, bash, Python, Linux, Rocks Cluster Distribution, Galaxy, Subversion, Git, and Bugzilla.
+* Gained significant experience using the following languages and technologies: Perl, R, Python, Linux shell, Rocks Cluster Distribution, Galaxy, Subversion, Git, and Bugzilla.
 
 **Projects**
 
 * Galaxy migration of genome assembly and annotation tools.
 * Genomic DNA contaminant identification, visualization, and removal.
 * [Genome assembly project.](/work_projects/genome_assembly_project.html)
-* [Automated bioinformatics SGE cluster tool submission.](/work_projects/qsub_omics.html)
+* [Automated bioinformatics SGE cluster tool submission.](/work_projects/qsub_omics_project.html)
 
 ### Research Associate ###
 **[Mood Disorders Research Group](https://medicine.dal.ca/departments/department-sites/psychiatry/research/mood-disorders.html)**, within the [Dalhousie University Department of Medicine](http://medicine.dal.ca).<br>
@@ -63,7 +63,7 @@ jeffcullis at gmail.com
 
 * [Impact of genetic and phenotypic heterogeneity on complex diseases.](/work_projects/heterogeneity_gwas_project.html)
 * [Replicable evidence for the involvement of the right inferior frontal gyrus in bipolar disorder.](/work_projects/rifg_project.html)
-* [Effect of illness burden and treatment on hippocampal volumes.](/work_projects/hippocampus_project.md)
+* [Effect of illness burden and treatment on hippocampal volumes.](/work_projects/hippocampus_project.html)
 * [Prefrontal cortex N-acetylaspartate affected by lithium in patients with bipolar disorder.](/work_projects/prefrontal_project.html)
 * [Management of neurocognitive testing data.](/work_projects/nct_data_project.html)
 
@@ -74,14 +74,14 @@ jeffcullis at gmail.com
 **2005 -- 2008**<br>
 
 **MCS Thesis, [Christian Blouin Lab](https://web.cs.dal.ca/~cblouin/labblouin/)**
-* [Algorithm development for phylogenetic tree compression.](/work_projects/phylogeny_compression_project.html)
-* [Visualization of the likelihood landscape of phylogeny search space.](/work_projects/phylogeny_visualization_project.html)
+* [Algorithm development for phylogenetic tree compression.](https://github.com/jeffcullis/phylogeny-compression)
+* [Thesis: Visualization of the likelihood landscape of phylogeny search space.](/work_projects/jc_mcs_thesis.pdf)
 
 **MCS Course Projects**
 * [MPI-based optimization of parallel load balancing for phylogeny search.](/work_projects/phylogeny_load_project.html)
-* [Implementation of an efficient parallel quicksort algorithm.](/work_projects/parallel_quicksort_project.html)
-* [Genetic algorithms for the classification of cancer microarray datasets.](/work_projects/ga_microarray_project.html)
-* [Support vector machines for neurocomputing classification problems.](/work_projects/svm_neuro_project.html)
+* Implementation of an efficient parallel quicksort algorithm.
+* Genetic algorithms for the classification of cancer microarray datasets.
+* Support vector machines for neurocomputing classification problems.
 
 ### Combined BSc in Computer Science and Mathematics
 [Department of Computer Science](https://web.uvic.ca/calendar2018-09/undergrad/engineering/csc.html#1018880) at the [University of Victoria](https://www.uvic.ca/).<br>

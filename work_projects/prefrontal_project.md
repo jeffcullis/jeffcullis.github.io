@@ -20,7 +20,5 @@ Study limitations include the crosssectional design and exposure to other medica
 ### CONCLUSION: ###
 Whereas patients with bipolar disorder, substantial illness burden and limited lifetime Li exposure had significantly lower prefrontal NAA levels than controls, Li-treated patients with similar illness burden showed prefrontal NAA levels comparable to those of healthy controls. These findings provide indirect support for neuroprotective effects of Li and for negative effects of illness burden on prefrontal NAA levels in patients with bipolar disorder.
 
-## My Contributions ##
-
 ## Publication ##
 [Large positive effect of lithium on prefrontal cortex N-acetylaspartate in patients with bipolar disorder: 2-centre study.](http://www.ncbi.nlm.nih.gov/pubmed/22353634)

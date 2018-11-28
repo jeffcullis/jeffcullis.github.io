@@ -17,7 +17,5 @@ The non-Li group had smaller left hippocampal volumes than controls (corrected p
 ### CONCLUSIONS: ###
 Whereas patients with limited lifetime Li exposure had significantly lower hippocampal volumes than controls, patients with comparable illness burden, but with over two years of Li treatment, or young Li-naïve BD patients, showed hippocampal volumes comparable to controls. These results provide indirect support for neuroprotective effects of Li and negative effects of illness burden on hippocampal volumes in bipolar disorders.
 
-## My Contributions ##
-
 ## Publication ##
 [Hippocampal volumes in bipolar disorders: opposing effects of illness burden and lithium treatment.](http://www.ncbi.nlm.nih.gov/pubmed/22548899)

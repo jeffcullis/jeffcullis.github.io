@@ -16,7 +16,7 @@ Li X, Yuan K, Cullis J, Lévesque CA, Chen W, Lewis CT, De Boer SH. 2015. [Draft
 
 ## Github ##
 
-Code is available at: https://github.com/AAFC-MBB/crti-assembly-pipeline
+[CRTI genome assembly project](https://github.com/AAFC-MBB/crti-assembly-pipeline)
 
     $ git clone https://github.com/AAFC-MBB/crti-assembly-pipeline.git
 
