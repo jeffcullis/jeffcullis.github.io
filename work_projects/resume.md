@@ -18,8 +18,10 @@ jeffcullis at gmail.com
 
 **Skills and Responsibilities**
 
-* Responsible for the development, maintenance, and processing of a custom Python software system for detection and reporting of clinically significant genetic variants.
-* Performed numerous analyses using R and Python, including contaminant detection, sequencing quality, and new feature validation.
+* Developed features for an object-oriented Python-based system used to analyze patient data and build clinical reports for 150-200 cancer patients per month.
+* Worked within a team with a high level of quality consciousness; new features required extensive unit tests, peer code review, and a formal release process was required prior to making any change to the production environment.
+* Carried out predictive and retrospective statistical analyses of major changes to the clinical reporting system and reported findings in regular team meetings.
+* Made significant contributions towards automation of the clinical reporting system as well as simplifying and automating methods for generating monthly quality indicator reports.
 * Augmented my experience with Python, R, git, Bitbucket, code reviews, Linux shell, SQLAlchemy, PostgreSQL, JIRA, and test-driven development.
 
 **Projects**
