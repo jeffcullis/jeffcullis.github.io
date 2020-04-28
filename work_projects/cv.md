@@ -22,8 +22,11 @@ June 2004<br>
  
 ## EMPLOYMENT HISTORY ##
 
+Technical Director, Canadian Integrated Ocean Observing System (CIOOS) Atlantic, Halifax, NS<br>
+February 2019 - present<br>
+
 Computational Biologist, Centre for Clinical Genomics, Michael Smith Genome Sciences Centre, Vanouver,BC<br>
-September 2015 – June 2018
+September 2015 – June 2018<br>
 
 Biodiversity Bioinformatics Programmer, Microbial Biodiversity Bioinformatics Group, Agriculture and Agri-Food Canada, Ottawa, ON<br>
 April 2013 – August 2015<br>
