@@ -1,7 +1,7 @@
 ---
 layout: slate_page_nologo
 title: Jeff Cullis
-description: Projects list and résumé
+description: Projects list and resume
 permalink: resume
 ---
 
@@ -10,6 +10,14 @@ permalink: resume
 jeffcullis at gmail.com
 
 ## Experience ##
+
+### Technical Director ###
+**[Canadian Integrated Ocean Observing System (CIOOS) Atlantic](https://cioosatlantic.ca)**<br>
+**Februrary 2019 -- present**<br>
+
+*	Leading development of a scalable interoperable system for data assembly, management, quality control and dissemination of oceanographic data.
+*	Supervision of technical staff.
+*	Working with technical task teams to plan and coordinate CIOOS-wide systems architecture, metadata profile, visualization tools, and data management objectives.
 
 ### Computational Biologist ###
 **[Centre for Clinical Genomics](http://ccgenomics.ca)** at the
