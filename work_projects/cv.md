@@ -22,8 +22,11 @@ June 2004<br>
  
 ## EMPLOYMENT HISTORY ##
 
+Technical Coordinator, Blue Spruce Nursery<br>
+April – October 2025<br>
+
 Technical Director, Canadian Integrated Ocean Observing System (CIOOS) Atlantic, Halifax, NS<br>
-February 2019 - present<br>
+February 2019 - July 2023<br>
 
 Computational Biologist, Centre for Clinical Genomics, Michael Smith Genome Sciences Centre, Vanouver,BC<br>
 September 2015 – June 2018<br>

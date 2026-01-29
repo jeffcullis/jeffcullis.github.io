@@ -5,7 +5,7 @@ title: Jeff Cullis
 
 **About me**
 
-I am an experienced scientific software developer based in Halifax.
+I am a scientific computing analyst and developer, with significant experience in ocean data management and analytics, and bioinformatics. 
 
 **Links:**
 

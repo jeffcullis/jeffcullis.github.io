@@ -11,13 +11,27 @@ jeffcullis at gmail.com
 
 ## Experience ##
 
+### Technical Coordinator ###
+**[Blue Spruce Nursery](https://bluesprucenursery.ca)**<br>
+**April – October 2025**
+*   Setup software and systems for a new garden centre business venture.
+*   Setup and management of the Square Retail point of sale system for processing plant orders, sales, and inventory management.
+*   Setup and management of Orisha and Harnois greenhouse automation software.
+
+
 ### Technical Director ###
 **[Canadian Integrated Ocean Observing System (CIOOS) Atlantic](https://cioosatlantic.ca)**<br>
-**Februrary 2019 -- present**<br>
+**Februrary 2019 -- July 2023**<br>
 
-*	Leading development of a scalable interoperable system for data assembly, management, quality control and dissemination of oceanographic data.
-*	Supervision of technical staff.
-*	Working with technical task teams to plan and coordinate CIOOS-wide systems architecture, metadata profile, visualization tools, and data management objectives.
+*   Worked with organizations collecting oceanographic data in Atlantic Canada to make  datasets findable, accessible, interoperable, and reusable (FAIR) through the cioos.ca open-access data catalogue.
+    *   Participated and problem-solved all stages of the data management lifecycle:
+    *   Held regular meetings with new and existing data providers and provided guidance, motivation, and technical expertise towards making their datasets FAIR.
+    *   Developed code, tools, and processes to collect, transfer and transform the data and metadata into standardized interoperable formats.
+    *   Performed data and metadata quality checks prior to data publication.
+*   Worked with national teams to build consistent metadata standards and entry forms, data acquisition strategies and tools, and data management plans across regions.
+*   Worked with US and international partners on best practices for data and metadata standards, quality control, and support for a diversity of data types and variables.
+*   Core technologies: CentOS Linux, Apache, Docker, Python, Github, Atlassian JIRA.
+
 
 ### Computational Biologist ###
 **[Centre for Clinical Genomics](http://ccgenomics.ca)** at the
@@ -26,11 +40,11 @@ jeffcullis at gmail.com
 
 **Skills and Responsibilities**
 
-* Developed features for an object-oriented Python-based system used to analyze patient data and build clinical reports for 150-200 cancer patients per month.
-* Worked within a team with a high level of quality consciousness; new features required extensive unit tests, peer code review, and a formal release process was required prior to making any change to the production environment.
-* Carried out predictive and retrospective statistical analyses of major changes to the clinical reporting system and reported findings in regular team meetings.
-* Made significant contributions towards automation of the clinical reporting system as well as simplifying and automating methods for generating monthly quality indicator reports.
-* Augmented my experience with Python, R, git, Bitbucket, code reviews, Linux shell, SQLAlchemy, PostgreSQL, JIRA, and test-driven development.
+*   Developed features for an object-oriented Python software pipeline used to analyze patient data and build clinical reports for 150-200 cancer patients per month.
+*   Quality was assessed consistently and production changes were released following an SOP that included functional and unit tests and peer code review.
+*   Automated large portions of the clinical reporting and quality indicator systems.
+*   Core technologies: Python, R, Git, SQLAlchemy, PostgreSQL, Atlassian JIRA
+
 
 **Projects**
 
@@ -42,12 +56,12 @@ jeffcullis at gmail.com
 
 **Skills and Responsibilities**
 
-* Developed a software platform for parallel processing of genomics and transcriptomics analyses, including tracking of all associated sequencing and processing metadata and optimization for execution via a high-performance compute cluster.
-* Used this platform to perform steps from raw sequence data acquisition, management, and quality control, through to genome and transcriptome assembly, evaluation, and formal data release process.
-* Responsible for organization and management of over 60TB of genomics and genome assembly data, from raw inputs through to final output data release.
-* Worked directly with numerous researchers to improve upon genomics and transcriptomics outputs and to perform additional customized analyses.
-* Supervised four co-op students with projects focused on gene annotation and metagenomics analysis.
-* Gained significant experience using the following languages and technologies: Perl, R, Python, Linux shell, Rocks Cluster Distribution, Galaxy, Subversion, Git, and Bugzilla.
+*   Designed and implemented a parallel, high-performance object-oriented software platform for genome assembly and analysis, including centralized metadata store.
+*   Performed raw sequence data acquisition, management, and QC, genome and transcriptome assembly, evaluation, and formal data and metadata release.
+*   Responsible for organization and management of over 60TB of genomics and genome assembly data.
+*   Supervised several co-op students and worked with researchers to perform customized analyses including gene annotation and metagenomics analysis.
+*   Core technologies: R, Python, Perl, Linux, Git.
+
 
 **Projects**
 
@@ -61,13 +75,9 @@ jeffcullis at gmail.com
 **October 2008 -- March 2013**<br>
 
 **Skills and Responsibilities**
-* Organized terabytes of human genotype data from 7000 subjects and created software to run nearly 2000 separate genome-wide analyses using this data.
-* Created scripts to clean, organize, and analyze terabytes of neuroimaging data from nearly 500 subjects across a wide range of projects. 
-* Developed parallelized R software to generate and analyze 1M simulated genotypes replicated 10K times under multiple genetic models.
-* Performed numerous image processing analyses across large datasets, including diffusion/tractography, functional connectivity, and morphometry analyses.
-* Created software to parse thousands of neurocognitive testing results, load data into SQL databases, clean data, remove duplicates, and generate statistics.
-* Responsible for the administration of most of the computational, storage, and data organization needs for a research group consisting of 12 staff.
-* Co-author of four journal articles reporting the results of some of the studies described above.
+*   Organized terabytes of human genotype data from 7000 subjects and created software to run nearly 2000 separate genome-wide analyses and simulate genotype data under various models for a large-scale analysis.
+*   Created scripts to clean, organize, and analyze terabytes of neuroimaging data from nearly 500 subjects across a wide range of projects and performed diffusion tractography, functional connectivity, and morphometry analyses.
+
 
 **Projects**
 
