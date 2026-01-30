@@ -14,9 +14,9 @@ jeffcullis at gmail.com
 ### Technical Coordinator ###
 **[Blue Spruce Nursery](https://bluesprucenursery.ca)**<br>
 **April – October 2025**
-*   Setup software and systems for a new garden centre business venture.
-*   Setup and management of the Square Retail point of sale system for processing plant orders, sales, and inventory management.
-*   Setup and management of Orisha and Harnois greenhouse automation software.
+*   Set up software and systems for a new garden centre business venture.
+*   Set up and management of the Square Retail point of sale system for processing plant orders, sales, and inventory management.
+*   Set up and management of Orisha and Harnois greenhouse automation software.
 
 
 ### Technical Director ###
